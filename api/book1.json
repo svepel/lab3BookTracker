@@ -1,0 +1,76 @@
+{
+	"kind": "books#volumes",
+	"totalItems": 1,
+	"items": [
+		{
+			"kind": "books#volume",
+			"id": "nFaCXvFVkLEC",
+			"etag": "agbDCI487gc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/nFaCXvFVkLEC",
+			"volumeInfo": {
+				"title": "The 4-Hour Body",
+				"subtitle": "An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman",
+				"authors": ["Timothy Ferriss"],
+				"publisher": "Harmony",
+				"publishedDate": "2010-12-14",
+				"description": "#1 NEW YORK TIMES BESTSELLER • The game-changing author of Tribe of Mentors teaches you how to reach your peak physical potential with minimum effort. “A practical crash course in how to reinvent yourself.”—Kevin Kelly, Wired Is it possible to reach your genetic potential in 6 months? Sleep 2 hours per day and perform better than on 8 hours? Lose more fat than a marathoner by bingeing? Indeed, and much more. The 4-Hour Body is the result of an obsessive quest, spanning more than a decade, to hack the human body using data science. It contains the collective wisdom of hundreds of elite athletes, dozens of MDs, and thousands of hours of jaw-dropping personal experimentation. From Olympic training centers to black-market laboratories, from Silicon Valley to South Africa, Tim Ferriss fixated on one life-changing question: For all things physical, what are the tiniest changes that produce the biggest results? Thousands of tests later, this book contains the answers for both men and women. It’s the wisdom Tim used to gain 34 pounds of muscle in 28 days, without steroids, and in four hours of total gym time. From the gym to the bedroom, it’s all here, and it all works. You will learn (in less than 30 minutes each): • How to lose those last 5-10 pounds (or 100+ pounds) with odd combinations of food and safe chemical cocktails • How to prevent fat gain while bingeing over the weekend or the holidays • How to sleep 2 hours per day and feel fully rested • How to produce 15-minute female orgasms • How to triple testosterone and double sperm count • How to go from running 5 kilometers to 50 kilometers in 12 weeks • How to reverse “permanent” injuries • How to pay for a beach vacation with one hospital visit And that's just the tip of the iceberg. There are more than 50 topics covered, all with real-world experiments, many including more than 200 test subjects. You don't need better genetics or more exercise. You need immediate results that compel you to continue. That’s exactly what The 4-Hour Body delivers.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780307463630"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "030746363X"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 593,
+				"printType": "BOOK",
+				"categories": ["Health & Fitness"],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=nFaCXvFVkLEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=nFaCXvFVkLEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.fi/books?id=nFaCXvFVkLEC&dq=isbn:9780307463630&hl=&cd=1&source=gbs_api",
+				"infoLink": "http://books.google.fi/books?id=nFaCXvFVkLEC&dq=isbn:9780307463630&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_4_Hour_Body.html?hl=&id=nFaCXvFVkLEC"
+			},
+			"saleInfo": {
+				"country": "FI",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "FI",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=nFaCXvFVkLEC&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Thousands of tests later, this book contains the answers for both men and women. It’s the wisdom Tim used to gain 34 pounds of muscle in 28 days, without steroids, and in four hours of total gym time."
+			}
+		}
+	]
+}
